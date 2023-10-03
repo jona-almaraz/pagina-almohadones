@@ -67,18 +67,13 @@ background-position: center center;
 height: calc(100vh - 80px);
 }
 
-                          edicion de carrusel
+                          /* edicion de carrusel
 
 
-
-
-
-
-
-
+USAR MIN-WIDTH PARA HACER MOBILE FIRST
 
    intento de hacerlo responsive revisar 
-@media (max-width: 952px){
+@media (min-width: 952px){
     .enlace{
         padding-left: 20px;
     }
@@ -91,7 +86,7 @@ height: calc(100vh - 80px);
     .checkbtn{
         display: block;
     }
-}
+} */
 
 ul{
     position: fixed;
